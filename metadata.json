@@ -1,0 +1,6 @@
+{
+  "name": "Nyx",
+  "description": "Deploy custom enterprise agents and automate complex workflows. Scale your intelligence with Nyx today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
