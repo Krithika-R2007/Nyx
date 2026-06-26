@@ -15,7 +15,6 @@ export default function App() {
   const [isBooted, setIsBooted] = useState(false);
 
   useEffect(() => {
-    // Fast boot timeline: load & animate well under the 500ms threshold to protect SEO & TTI
     const timer = setTimeout(() => {
       setIsBooted(true);
     }, 250);
