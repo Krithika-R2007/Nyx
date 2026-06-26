@@ -1,6 +1,7 @@
 # Nyx AI Platform 
 
 Nyx is an elegant, high-performance, single-screen intelligent logic sandbox, telemetry logging suite, and enterprise agent simulation dashboard. Designed to visualize, test, and host multi-agent cognitive architecture, it provides deep compliance telemetry, flat annual dynamic tariff conversions, and real-time interface controls in a unified light-theme modern viewport.
+Demo: https://nyx-livid.vercel.app/#
 
 ---
 
@@ -26,7 +27,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
 
 ---
 
-## 📂 Which Files to Upload to GitHub
 
 When creating a new repository on GitHub, you must commit all code structure except files listed in your `.gitignore` (which are created automatically or contain local environments).
 
