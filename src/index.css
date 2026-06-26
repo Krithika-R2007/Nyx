@@ -25,7 +25,6 @@
   100% { transform: translateY(40px); }
 }
 
-/* Custom Scrollbar */
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
@@ -41,7 +40,6 @@
   background: #FF9932;
 }
 
-/* Custom Backdrop Grid */
 .tech-grid {
   background-image: 
     linear-gradient(to right, rgba(217, 232, 227, 0.04) 1px, transparent 1px),
@@ -49,7 +47,6 @@
   background-size: 40px 40px;
 }
 
-/* Glass panel */
 .glass-panel {
   background: rgba(23, 43, 54, 0.7);
   backdrop-filter: blur(12px);
@@ -60,7 +57,6 @@
   border-color: rgba(255, 153, 50, 0.25);
 }
 
-/* Glowing Accents */
 .glow-saffron {
   box-shadow: 0 0 20px rgba(255, 153, 50, 0.25);
 }
